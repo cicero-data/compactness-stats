@@ -21,3 +21,5 @@ See the [wiki](https://github.com/cicero-data/compactness-stats/wiki) page for m
 | Area/Convex Hull | Area/Convex Hull ratio score  |
 | MBC Area | Area of minimum bounding circle of the district in square meters  |
 | Reock | Reock ratio score  |
+
+Note: all scores were multiplied by 100 for readability.
