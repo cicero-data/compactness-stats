@@ -1,6 +1,6 @@
 # compactness-stats
 
-See the [wiki](https://github.com/cicero-data/compactness-stats/wiki) page for more information on methodology and sources.
+See the [wiki](https://github.com/cicero-data/compactness-stats/wiki) page for more information on methodology and sources. See the [blog post](https://www.azavea.com/blog/2016/07/11/measuring-district-compactness-postgis/) for instructions on calculating compactness measures in PostGIS.
 
 ### Data Dictionary
 
